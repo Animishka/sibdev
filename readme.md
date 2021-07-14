@@ -40,12 +40,12 @@ ReadMe
 ___
 
 ###модуль Views.py
+
 class DealsCsvView
 
 ***Реализация загрузки файла и сохранения информации в БД с помощью функции save_customers_deals() из модуля utils.
 Файл сохраняется в БД с помощью модели DealsCsv, данные о сделках сохраняются в БД с помощью моделей
 Customer и CustomersItems.***
-___
 
 class GetTopView
 
