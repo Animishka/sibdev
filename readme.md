@@ -39,6 +39,8 @@ ReadMe
 
 ___
 
+
+
 ###модуль Views.py
 
 class DealsCsvView
